@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "ComebackWeb",
+    "name": "Comeback - Homeless Resources",
     "slug": "ComebackWeb",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/applogoTransparent3.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/applogoTransparent3.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/applogoTransparent3.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/applogoTransparent3.png"
     }
   }
 }
