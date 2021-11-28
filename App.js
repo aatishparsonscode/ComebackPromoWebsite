@@ -272,7 +272,7 @@ export function Home() {
             </View>
             <View style={{alignItems:'center',justifyContent:'space-evenly',flex:11}}>
               <View style={{justifyContent:'flex-start',alignItems:'flex-start',paddingHorizontal:25}}>
-                <Text style={{textAlign:'center',fontWeight:'500',color:'white',fontSize:getVideoWidth()/35}}>Serving 5,500+ individuals across the United States</Text>
+                <Text style={{textAlign:'center',fontWeight:'500',color:'white',fontSize:getVideoWidth()/35}}>Serving 10,000+ individuals across the United States</Text>
                
               </View>
               
